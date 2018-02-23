@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">No Pain No Gain</string>
+    <string name="day1">Monday</string>
+    <string name="day2">Tuesday</string>
+    <string name="day3">Wednesday</string>
+    <string name="day4">Thursday</string>
+    <string name="day5">Friday</string>
+    <string name="day6">Saturday</string>
+    <string name="day7">Sunday</string>
+    <string-array name="mon_name">
+        <item>1.BARBELL BENCH PRESS</item>
+        <item>2.INCLINE DUMBBELL PRESS</item>
+        <item>3.DUMBBELL FLYES</item>
+        <item>4.PUSHUPS</item>
+        <item>5.CRUNCHES</item>
+        <item>6.REVERSE CRUNCH</item>
+        <item>7.BARBELL SIDE BEND</item>
+    </string-array>
+    <string-array name="mon_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 12-15 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+    </string-array>
+    <string-array name="tues_name">
+        <item>1.BENT OVER BARBELL ROW</item>
+        <item>2.PULLUPS</item>
+        <item>3.ONE-ARM DUMBBELL ROW</item>
+        <item>4.BARBELL DEADLIFT</item>
+    </string-array>
+    <string-array name="tues_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>4 sets of 8-15 reps</item>
+        <item>4 sets of 8-15 reps</item>
+        <item>4 sets of 8-15 reps</item>
+    </string-array>
+    <string-array name="wed_name">
+        <item>1.JUMP SQUAT</item>
+        <item>2.DUMBBELL SQUAT</item>
+        <item>3.DUMBBELL STEP UPS</item>
+        <item>4.BARBELL LUNGE</item>
+        <item>5.STIFF-LEGGED BARBELL DEADLIFT</item>
+        <item>6.STANDING DUMBBELL CALF RAISE</item>
+        <item>7.STANDING CALF RAISES</item>
+    </string-array>
+    <string-array name="wed_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 20-25 reps</item>
+        <item>3-4 sets of 20-25 reps</item>
+    </string-array>
+    <string-array name="rest_name">
+        <item>Rest</item>
+    </string-array>
+    <string-array name="rest_desc">
+        <item> </item>
+    </string-array>
+    <string-array name="fri_name">
+        <item>1.SEATED DUMBBELL PRESS</item>
+        <item>2.SIDE LATERAL RAISE</item>
+        <item>3.SEATED BENT-OVER REAR DELT RAISE</item>
+        <item>4.UPRIGHT BARBELL ROW</item>
+        <item>5.DUMBBELL SHRUG</item>
+    </string-array>
+    <string-array name="fri_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+    </string-array>
+    <string-array name="sat_name">
+        <item>1.BARBELL CURL</item>
+        <item>2.DUMBBELL ALTERNATE BICEP CURL</item>
+        <item>3.CLOSE-GRIP BARBELL BENCH PRESS</item>
+        <item>4.DUMBBELL ONE-ARM TRICEPS EXTENSION</item>
+        <item>5.SEATED DUMBBELL PALMS-UP WRIST CURL</item>
+        <item>6.CRUNCHES</item>
+        <item>7.REVERSE CRUNCH</item>
+        <item>8.BARBELL SIDE BEND</item>
+    </string-array>
+    <string-array name="sat_desc">
+        <item>2 warmup sets of 15-20 reps, 3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+        <item>3-4 sets of 8-15 reps</item>
+        <item>3-4 sets of 20-25 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+        <item>3-4 sets of 15-20 reps</item>
+    </string-array>
+</resources>
